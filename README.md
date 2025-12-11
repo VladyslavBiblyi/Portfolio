@@ -29,7 +29,7 @@ This project uses simple linear regression to examine how distance to the neares
 
 ---
 
-# 🇷 R
+# R
 
 ### Logistic Regression on Graduate Admissions  
 https://github.com/VladyslavBiblyi/r-course-projects/logistic-regression-admissions-model  
