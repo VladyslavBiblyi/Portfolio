@@ -10,7 +10,7 @@ This portfolio demonstrates projects I’ve completed through coursework and ind
 # Python
 
 ### Statistical Analysis & Confidence Intervals  
-[https://github.com/VladyslavBiblyi/python-course-projects/](https://github.com/VladyslavBiblyi/python-course-projects/tree/main/statistical-analysis-confidence-intervals)
+[https://github.com/VladyslavBiblyi/python-course-projects/statistical-analysis](https://github.com/VladyslavBiblyi/python-course-projects/tree/main/statistical-analysis-confidence-intervals)
 
 
 This project explores multiple real-world datasets using Python to perform descriptive statistics, exploratory analysis, and inferential methods. It includes constructing confidence intervals, checking statistical conditions, and running simulations to evaluate empirical coverage.
@@ -18,7 +18,7 @@ This project explores multiple real-world datasets using Python to perform descr
 ---
 
 ### Fire Damage Regression Model  
-[https://github.com/VladyslavBiblyi/python-courses/fire-damage-regression-model](https://github.com/VladyslavBiblyi/python-course-projects/tree/main/fire-damage-regression-model)  
+[https://github.com/VladyslavBiblyi/python-courses/regression-model](https://github.com/VladyslavBiblyi/python-course-projects/tree/main/fire-damage-regression-model)  
 
 This project uses simple linear regression to examine how distance to the nearest fire station influences property damage. The analysis includes visualization, model fitting, and interpretation of relationship strength and predictive capability.
 
@@ -27,7 +27,7 @@ This project uses simple linear regression to examine how distance to the neares
 # R
 
 ### Logistic Regression on Graduate Admissions  
-[https://github.com/VladyslavBiblyi/r-course-projects/logistic-regression-admissions-model ](https://github.com/VladyslavBiblyi/r-course-projects/tree/main/logistic-regression-admissions-model) 
+[https://github.com/VladyslavBiblyi/r-course-projects/logistic-regression](https://github.com/VladyslavBiblyi/r-course-projects/tree/main/logistic-regression-admissions-model) 
 
 This project builds a logistic regression model to predict graduate school admission outcomes using GRE scores, GPA, and institutional ranking. The analysis incorporates odds ratios, ROC curves, and evaluation of classification accuracy.
 
@@ -48,7 +48,7 @@ An end-to-end data-cleaning and modeling pipeline involving typo correction, mis
 ---
 
 ### Marathon Performance Shiny Dashboard  
-[https://github.com/VladyslavBiblyi/r-course-projects/shiny ](https://github.com/VladyslavBiblyi/r-course-projects/tree/main/shiny)
+[https://github.com/VladyslavBiblyi/r-course-projects/shiny](https://github.com/VladyslavBiblyi/r-course-projects/tree/main/shiny)
 
 An interactive Shiny dashboard that allows users to explore marathon performance data through dynamic scatterplots, histograms, boxplots, and summary statistics. Users can filter by age, gender, pace, and training variables.
 
