@@ -16,7 +16,7 @@ Below are my primary projects, organized by topic.
 # Python
 
 ### Statistical Analysis & Confidence Intervals  
-https://github.com/VladyslavBiblyi/python-courses/statistical-analysis-confidence-intervals  
+https://github.com/VladyslavBiblyi/python-courses
 
 This project explores multiple real-world datasets using Python to perform descriptive statistics, exploratory analysis, and inferential methods. It includes constructing confidence intervals, checking statistical conditions, and running simulations to evaluate empirical coverage.
 
