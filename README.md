@@ -7,12 +7,6 @@ This portfolio demonstrates projects I’ve completed through coursework and ind
 ---
 
 
-## Projects
-
-Below are my primary projects, organized by topic.  
-
----
-
 # Python
 
 ### Statistical Analysis & Confidence Intervals  
