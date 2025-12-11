@@ -62,7 +62,7 @@ An interactive Shiny dashboard that allows users to explore marathon performance
 # Cybersecurity
 
 ### VFMC Cybersecurity Risk Assessment & Security Plan  
-https://github.com/VladyslavBiblyi/cybersecurity-projects/risk-assessment-and-security-plan  
+https://github.com/VladyslavBiblyi/cybersecurity-projects/risk-assessment-and-security-plan
 
 A comprehensive cybersecurity risk assessment created for Valley Forge Military College. The report analyzes organizational, process, and technology risks and provides actionable recommendations based on cybersecurity best practices and federal frameworks.
 
