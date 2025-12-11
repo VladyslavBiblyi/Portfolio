@@ -1,4 +1,4 @@
-# Vladyslav Biblyi — Portfolio
+# Vladyslav Biblyi - Portfolio
 
 Hi, I’m **Vladyslav Biblyi**, a Data Science student at St. Joseph's University with a strong interest in analytics, programming, and cybersecurity. 
 
