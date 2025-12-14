@@ -68,6 +68,6 @@ A comprehensive cybersecurity risk assessment created for Valley Forge Military 
 If you’d like to collaborate, connect, or learn more about my work, feel free to reach out:
 
  **Email:** *bibliyvlad@gmail.com*  
- **LinkedIn:** *[your-linkedin-here](https://www.linkedin.com/in/vlad-biblyi/)*
+ **LinkedIn:** *[Vladyslav Biblyi](https://www.linkedin.com/in/vlad-biblyi/)*
 
 ---
